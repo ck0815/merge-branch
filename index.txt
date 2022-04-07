@@ -6,3 +6,8 @@ function Pen () {
 let p1 = new Pen()
 
 console.log(p1)
+
+function add (num1, num2) {
+	return num1 + num2
+}
+console.log(add(1, 2))
