@@ -2,6 +2,7 @@ let a = 123
 
 function Pen () {
   this.name = 'ckk'
+  // this.name = 'name'
 }
 let p1 = new Pen()
 
